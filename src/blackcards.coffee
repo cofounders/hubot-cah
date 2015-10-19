@@ -23,7 +23,7 @@ module.exports = [
   "(Pick 2) Rumor has it that Vladimir Putin's favorite dish is _____ stuffed with _____.",
   "(Pick 2) Step 1: _____. Step 2: _____. Step 3: Profit.",
   "(Pick 2) That's right I killed _____. How you ask? _____.",
-  "(Pick 2) What's the next superhero/sidekick duo?" _____ & _____,
+  "(Pick 2) What's the next superhero/sidekick duo? _____ & _____",
   "(Pick 2) When I was tripping on acid _____ turned into _____.",
   "(Pick 2) You haven't truly lived until you've experienced _____ and _____ at the same time.",
   "(Pick 2) _____ is a slippery slope that leads to _____.",
